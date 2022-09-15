@@ -5,5 +5,5 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git!
+Hello git!hot-fix test
 Hello git!
