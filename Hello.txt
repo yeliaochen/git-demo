@@ -6,4 +6,4 @@ Hello git!
 Hello git!
 Hello git!master
 Hello git!master test
-Hello git!
+Hello git!hot-fix test
